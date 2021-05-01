@@ -25,7 +25,7 @@ function generateMarkdown(data) {
  
   
   # **Installation**
-  ### ${data.Installation}
+  ### Before running this app, you will need to ${data.Installation}
   
   
   # **Usage**
@@ -33,7 +33,7 @@ function generateMarkdown(data) {
   
    
   # **Guidelines**
-  ### ${data.Guidelines}
+  ### To be able to use this app, ${data.Guidelines}
  
   
   # **Testing**

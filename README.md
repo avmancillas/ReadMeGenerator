@@ -1,6 +1,6 @@
 
   
-  # **ReadMe Generator**
+  # **README**
 
   # **License:**
   ### MIT
@@ -19,23 +19,23 @@
   *[Testing](#testing)
   
   # **Description**
-  ### To create a clean README file
+  ### n/a
  
   
   # **Installation**
-  ### none
+  ### Before running this app, you will need to n/a
   
   
   # **Usage**
-  ### none
+  ### n/a
   
    
   # **Guidelines**
-  ### none
+  ### To be able to use this app, n/a
  
   
   # **Testing**
-  ### none
+  ### n/a
   
 
 
@@ -43,7 +43,7 @@
   
 
   # **Contributors**
-  ### The following contributed to this project no one
+  ### The following contributed to this project n/a
   
   # **Questions**
   ### If you have any questions, contact me at {https://github.com/avmancillas} or email me at avmancillas@gmail.com

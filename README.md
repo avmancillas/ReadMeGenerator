@@ -1,6 +1,6 @@
 
   
-  # **README**
+  # **README Generator**
 
   # **License:**
   ### MIT
@@ -19,23 +19,23 @@
   *[Testing](#testing)
   
   # **Description**
-  ### n/a
+  ### We had to create a README.md file using Inquire and our terminal.
  
   
   # **Installation**
-  ### Before running this app, you will need to n/a
+  ### Before running this app, you will need to install Inquire to your files.
   
   
   # **Usage**
-  ### n/a
+  ### For this specific project, the README.md generaor is use to facilitate projects.
   
    
   # **Guidelines**
-  ### To be able to use this app, n/a
+  ### To be able to use this app, No contribution guidelines
  
   
   # **Testing**
-  ### n/a
+  ### To be able to run this README.md you will need to upen up terminal and log node.js
   
 
 
@@ -43,7 +43,7 @@
   
 
   # **Contributors**
-  ### The following contributed to this project n/a
+  ### The following contributed to this project N/A
   
   # **Questions**
   ### If you have any questions, contact me at {https://github.com/avmancillas} or email me at avmancillas@gmail.com

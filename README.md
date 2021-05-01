@@ -1,6 +1,6 @@
 
   
-  # **none**
+  # **ReadMe Generator**
 
   # **License:**
   ### MIT
@@ -19,7 +19,7 @@
   *[Testing](#testing)
   
   # **Description**
-  ### none
+  ### To create a clean README file
  
   
   # **Installation**
@@ -31,11 +31,11 @@
   
    
   # **Guidelines**
-  ### noe
+  ### none
  
   
   # **Testing**
-  ### noe
+  ### none
   
 
 
@@ -43,10 +43,8 @@
   
 
   # **Contributors**
-  ### none
-
-  # **Email**
-  If you have any questions please email me at: [mailto](avmancillas@gmail.com)
+  ### The following contributed to this project no one
   
+  # **Questions**
+  ### If you have any questions, contact me at {https://github.com/avmancillas} or email me at avmancillas@gmail.com
 
-# Week9HW

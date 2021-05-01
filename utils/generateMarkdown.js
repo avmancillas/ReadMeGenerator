@@ -45,12 +45,13 @@ function generateMarkdown(data) {
   
 
   # **Contributors**
-  ### ${data.Contributing}
-
-  # **Email**
-  If you have any questions please email me at: [mailto](avmancillas@gmail.com)
+  ### The following contributed to this project ${data.Contributing}
   
+  # **Questions**
+  ### If you have any questions, contact me at {https://github.com/${data.Username}} or email me at ${data.email}
 
-`;}
+`
+
+;}
 
 module.exports = generateMarkdown;

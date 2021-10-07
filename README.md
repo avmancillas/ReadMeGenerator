@@ -31,7 +31,7 @@
   
    
   # **Guidelines**
-  ### To be able to use this app, No contribution guidelines
+  ### No contribution guidelines
  
   
   # **Testing**
@@ -43,7 +43,7 @@
   
 
   # **Contributors**
-  ### The following contributed to this project N/A
+  ### N/A
   
   # **Questions**
   ### If you have any questions, contact me at {https://github.com/avmancillas} or email me at avmancillas@gmail.com

@@ -18,23 +18,23 @@
 
   *[Testing](#testing)
   
-  # **Description**
+  # **Description:**
   ### I had to create a README.md file using Inquire and my terminal.
  
   
-  # **Installation**
+  # **Installation:**
   ### Before running this app, you will need to install Inquire to your files.
   
   
-  # **Usage**
+  # **Usage:**
   ### For this specific project, the README.md generaor is use to facilitate projects.
   
    
-  # **Guidelines**
+  # **Guidelines:**
   ### No contribution guidelines
  
   
-  # **Testing**
+  # **Testing:**
   ### To be able to run this README.md you will need to upen up terminal and log node.js
   
 
@@ -42,9 +42,9 @@
   # **License:**
   
 
-  # **Contributors**
+  # **Contributors:**
   ### This was created by Avi Mancillas.
   
-  # **Questions**
+  # **Questions:**
   ### If you have any questions, contact me at {https://github.com/avmancillas} or email me at avmancillas@gmail.com
 

@@ -19,7 +19,7 @@
   *[Testing](#testing)
   
   # **Description**
-  ### We had to create a README.md file using Inquire and our terminal.
+  ### I had to create a README.md file using Inquire and my terminal.
  
   
   # **Installation**
@@ -43,7 +43,7 @@
   
 
   # **Contributors**
-  ### N/A
+  ### This was created by Avi Mancillas.
   
   # **Questions**
   ### If you have any questions, contact me at {https://github.com/avmancillas} or email me at avmancillas@gmail.com
